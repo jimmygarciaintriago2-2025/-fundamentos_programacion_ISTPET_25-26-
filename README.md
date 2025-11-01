@@ -5,4 +5,4 @@ Carrera= [Desarrollo de software*
 ¨repositorio de practica de fundamentos de*programacion 1er semestre*
  “Creación del repositorio”
   “Actualización README.md”
-  ¨Desarrollo de fofware crea, matiene y diseña programas, aplicaciones y sistemas informaticos¨
+  ¨Desarrollo de fofware crea, matiene y diseña programas, aplicaciones y sistemas informaticos¨....Este proceso abarca desde la idea inicial y el análisis de requisitos hasta la programación
